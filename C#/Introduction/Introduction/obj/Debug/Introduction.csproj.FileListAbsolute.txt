@@ -1,0 +1,8 @@
+C:\Users\USER\Desktop\Doc\Learning\C#\Introduction\Introduction\obj\Debug\Introduction.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Doc\Learning\C#\Introduction\Introduction\obj\Debug\Introduction.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Doc\Learning\C#\Introduction\Introduction\bin\Debug\Introduction.exe.config
+C:\Users\USER\Desktop\Doc\Learning\C#\Introduction\Introduction\bin\Debug\Introduction.exe
+C:\Users\USER\Desktop\Doc\Learning\C#\Introduction\Introduction\bin\Debug\Introduction.pdb
+C:\Users\USER\Desktop\Doc\Learning\C#\Introduction\Introduction\obj\Debug\Introduction.exe
+C:\Users\USER\Desktop\Doc\Learning\C#\Introduction\Introduction\obj\Debug\Introduction.pdb
+C:\Users\USER\Desktop\Doc\Learning\C#\Introduction\Introduction\obj\Debug\Introduction.exe.config
