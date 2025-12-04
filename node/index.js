@@ -11,10 +11,6 @@ const PASS = process.env.PASS
 // Check if email credentials exist
 if (!EMAIL || !PASS) {
     console.error('ERROR: EMAIL and PASS environment variables are required!');
-    console.log('Create a .env file with:');
-    console.log('EMAIL=your-ethereal-email');
-    console.log('PASS=your-ethereal-password');
-    console.log('Or visit: https://ethereal.email to create test account');
 }
 
 app.use(express.json())
